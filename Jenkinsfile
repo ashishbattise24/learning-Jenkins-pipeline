@@ -1,7 +1,5 @@
 pipeline{
 
-
-
   environment{
   registry = "battiseashish24/learning-pipeline-nodejs"
   registryCredential = "dockerhub"
